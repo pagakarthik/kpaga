@@ -3,6 +3,9 @@
 You can use the [editor on GitHub](https://github.com/pagakarthik/karthikpaga.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 [website][http://pagakarthik.github.io/kpaga]
 
+
+![Images have anclamation mark to the left of the square backets][https://octodex.github.com/images/yaktocat.png]
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -10,6 +13,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
+```python
+# Markdown comments
+#include numpy
+#include pandas
+
+print "This is not machine learning!"
+```
 Syntax highlighted code block
 
 # Header 1 - This is header 1
