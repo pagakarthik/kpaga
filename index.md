@@ -1,3 +1,4 @@
+![toy gear but Real Deal](https://github.com/pagakarthik/kpaga/blob/master/IMG_20180107_151822.jpg)
 ## About Me
 
 More then developing technology and advances in autonomous systems, I am really interested in working with teams to have a real positve social impact.
